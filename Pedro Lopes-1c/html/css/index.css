@@ -1,0 +1,27 @@
+body{
+    background-color: #ccc;
+}
+section{
+    width: 80%;
+    height: 80vh;
+    background-color: #450404;
+    margin-left: 10%;
+    margin-top: 10vh;
+}
+section img{
+    margin-left: 39.8%;
+    margin-top: 5vh;
+    border-radius: 370px;
+    width: 30%%;
+}
+h1{
+    font-size: 2.5em;
+    color: #fff;
+    margin-left: 42%;
+}
+button{
+    background-color: #FCF96B;
+    padding: 20px 46px;
+    border-radius: 28px;
+    margin-left: 41.5%;
+}
